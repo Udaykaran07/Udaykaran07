@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Udaykaran
-- 👀 I’m interested in ...Database handelling 
+- 👀 I’m interested in ...Database handling 
 - 🌱 I’m currently learning ...Java
 - 📫 How to reach me ...uday.moondi@gmail.com
 - 😄 Pronouns: ...he/him
